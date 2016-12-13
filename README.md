@@ -1,2 +1,2 @@
 # DojoGit
-Repositório para auxilio no ensino de git
+Repositório para auxilio no ensino de git "Commit, merges, branchs"
