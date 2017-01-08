@@ -1,6 +1,6 @@
 Era uma vez pessoas que não sabiam usar git 
 
-Primeiro Paragrafo
+e aprenderam
 
 Segundo Paragrafo
 
